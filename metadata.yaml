@@ -1,0 +1,30 @@
+_repo: The-Fighter_66697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Terhune, Albert Payson
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '891'
+    url: http://www.gutenberg.org/2009/agents/891
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Payson_Terhune
+description: ''
+gutenberg_issued: '2021-11-10'
+identifiers:
+  gutenberg: '66697'
+language: en
+pgterms:marc904: https://archive.org/details/fighterterhune00terhiala/mode/2up
+pgterms:marc905: 20200808180046terhune
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by University of California libraries)
+publication_note: United States :Grosset & Dunlap Publishers,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Fighter
+url: http://www.gutenberg.org/ebooks/66697
